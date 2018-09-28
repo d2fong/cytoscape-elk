@@ -8,5 +8,5 @@
  * A continuous layout is one that updates positions continuously, like a force-
  * directed / physics simulation layout.
  */
-// module.exports = require('./discrete');
+module.exports = require('./discrete');
 // module.exports = require('./continuous');
